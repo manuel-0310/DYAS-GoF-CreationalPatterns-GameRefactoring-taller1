@@ -1,1 +1,1 @@
-# DYAS-GoF-CreationalPatterns-GameRefactoring-taller1
+# Hecho por Daniel Riveros y Manuel Castillo
